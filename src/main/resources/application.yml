@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: default
+    password: password
+    url: jdbc:ch://localhost:8123/helloworld
+    driver-class-name: com.clickhouse.jdbc.ClickHouseDriver
